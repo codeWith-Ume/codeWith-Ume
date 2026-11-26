@@ -13,6 +13,6 @@ Hi, I'm Ume!<br>A curious person who loves learning new things, asking questions
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codeWith-Ume&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=codeWith-Ume&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ume-salma-bb2284448/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
