@@ -1,4 +1,4 @@
-# About Me:
+# 💫 About Me:
 Hi, I'm Ume!<br>A curious person who loves learning new things, asking questions, and figuring out how things work.<br>Currently exploring the world of programming, making mistakes, building things, and learning along the way.<br>I don't have everything figured out yet, but I'm always excited about what's next. :)
 
 
